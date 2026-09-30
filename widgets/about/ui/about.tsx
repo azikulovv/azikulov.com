@@ -18,7 +18,7 @@ export function About() {
 
           <div className="lg:col-span-8">
             <Reveal>
-              <p className="max-w-3xl text-2xl font-medium leading-tight tracking-tight sm:text-4xl">Я Маулен — разработчик.</p>
+              <p className="max-w-3xl text-2xl font-medium leading-tight tracking-tight sm:text-4xl">Я Маулен — Software Developer.</p>
               <p className="mt-8 max-w-2xl text-base leading-8 text-muted sm:text-lg">
                 Мне нравится превращать сложные идеи в понятные решения и разбираться в том, как всё работает изнутри.
               </p>

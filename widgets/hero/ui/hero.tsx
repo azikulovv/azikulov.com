@@ -10,7 +10,7 @@ export function Hero() {
 
         <div className="mt-12 flex flex-col gap-6 sm:flex-row sm:items-center sm:justify-between">
           <p className="max-w-md text-base leading-7 text-muted sm:text-lg">
-            Разработчик, которому интересно превращать идеи в понятные и работающие решения.
+            Software Developer, которому интересно превращать идеи в понятные и работающие решения.
           </p>
 
           <div className="flex items-center gap-3 text-sm text-muted">

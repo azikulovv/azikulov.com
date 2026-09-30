@@ -10,6 +10,7 @@ export default function Home() {
   return (
     <>
       <Header />
+
       <main id="top">
         <Hero />
         <Services />
@@ -17,6 +18,7 @@ export default function Home() {
         <About />
         <Contact />
       </main>
+
       <Footer />
     </>
   );
